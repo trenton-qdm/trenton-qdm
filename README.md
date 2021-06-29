@@ -1,6 +1,6 @@
-Trenton Dirks - Software Engineer at QDM INC.
+Trenton Dirks - Software Engineer at QDM Inc.
 
-Currently working with Python and Javascript creating tools and maintaining software 
+Working with Python and Javascript creating tools and maintaining software 
 
 <!---
 comments section
